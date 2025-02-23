@@ -9,6 +9,17 @@
 
 3.2. Склонировать созданный удаленный репозиторий
 
-3.3. Фиксируем скрипт в репозитории (делаем коммит)
+![image](https://github.com/user-attachments/assets/e7295611-b2f1-4de4-9a32-4a61b5d2a6cd)
+
+![image](https://github.com/user-attachments/assets/324439ce-d289-4fd9-b7ff-dcf7c84b16a3)
+
+3.3. Фиксируем скрипт в репозитории (делаем коммит (создавался файл test.py))
+
+![image](https://github.com/user-attachments/assets/c8b6d18d-8047-4459-9cfa-063057a41b87)
 
 3.4. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+
+![image](https://github.com/user-attachments/assets/fb05edfc-af1c-497b-8b2e-0d9a44970598)
+
+![image](https://github.com/user-attachments/assets/b6dd8243-c7b6-45ef-9294-714ede28d0a2)
+
