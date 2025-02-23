@@ -15,7 +15,7 @@
 
 3.3. Фиксируем скрипт в репозитории (делаем коммит (создавался файл test.py))
 
-![image](https://github.com/user-attachments/assets/c8b6d18d-8047-4459-9cfa-063057a41b87)
+![image](https://github.com/user-attachments/assets/36d6e542-f0f1-417b-bc8b-d6033a1caa40)
 
 3.4. Обновляем удаленный репозиторий репозиторий (делаем пуш)
 
